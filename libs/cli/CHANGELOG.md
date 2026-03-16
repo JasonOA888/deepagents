@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.34](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.33...deepagents-cli==0.0.34) (2026-03-16)
+
+
+### Features
+
+* **sdk:** add async subagent middleware for remote LangGraph servers ([#1758](https://github.com/langchain-ai/deepagents/issues/1758)) ([0c5d501](https://github.com/langchain-ai/deepagents/commit/0c5d501066e7e9cb74737740d9b3c1dfc74751a6))
+
+
+### Reverted Changes
+
+* make summarization test compatible with sdk 0.4.11 ([#1923](https://github.com/langchain-ai/deepagents/issues/1923)) ([22fd479](https://github.com/langchain-ai/deepagents/commit/22fd4793196f3b2493ed155330ec325302b6e960))
+
 ## [0.0.33](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.32...deepagents-cli==0.0.33) (2026-03-16)
 
 ### Highlights
